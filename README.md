@@ -8,9 +8,13 @@ The structure of the project is as follow:
 
 1. Modules
 	- mainapp - It is the main file which creates the user and attach the polices.
-	- policies - It consits of different policies applicable for different user positions. 
+	
+	- policies - It consits of different policies applicable for different user positions.
+	
 		-carch - It is abbreviated as "Cloud Architecture" position where we have provided full access to every resouce in AWS.
+		
 		-cdev - It is abbreviated as "Cloud Engineer" position where we have provided only read-write access to specific resource(say EC2 and S3). 
+		
 		-cops - It is abbreviated as "Cloud Operations Engineer" position where we have provided readonly access to specific resources. 
 
 2. main.tf - It calls the mainapp module with specific data/variables such as name and department of the new user.
@@ -19,7 +23,7 @@ The structure of the project is as follow:
 
 4. LOGS - As soon as a new user is created, all the data will be logged into this folder for audit/record purposes.
 
-#Prerequisite for the project
+## Prerequisite for the project
 
 Terraform Version 1.3.9 or >
 
