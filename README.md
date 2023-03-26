@@ -26,7 +26,7 @@ Terraform Version 1.3.9 or >
 1. Cloning the repo
 
 ```
-git clone <git>
+git clone https://github.com/bhikeshkhute/Provisioning-of-IAM-Users-Polices-using-terraform-on-AWS.git
 ```
 
 2. Intializing Terraform & Running the script to create the user
