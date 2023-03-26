@@ -1,4 +1,4 @@
-# Provisioning of IAM Users & Polices using terraform on AWS
+# Provisioning of IAM Users & Polices using Terraform on AWS
 
 In this project, we will be creating IAM roles for let's say new users and assign specific polices. 
 
