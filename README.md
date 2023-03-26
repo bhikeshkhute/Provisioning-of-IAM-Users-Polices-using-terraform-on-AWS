@@ -2,7 +2,7 @@
 
 In this project, we will be creating IAM roles for let's say new users and assign specific polices. 
 
-![](https://github.com/bhikeshkhute/Provisioning-of-IAM-Users-Polices-using-terraform-on-AWS/blob/master/IAM_Project.jpg) | ![](https://github.com/bhikeshkhute/Provisioning-of-IAM-Users-Polices-using-terraform-on-AWS/blob/master/tree_structure.JPG)
+![](https://github.com/bhikeshkhute/Provisioning-of-IAM-Users-Polices-using-terraform-on-AWS/blob/master/tree_structure.JPG) | ![](https://github.com/bhikeshkhute/Provisioning-of-IAM-Users-Polices-using-terraform-on-AWS/blob/master/IAM_Project.jpg)
 
 The structure of the project is as follow:
 
